@@ -1,0 +1,2 @@
+iris dataset 1 : https://archive.ics.uci.edu/ml/machine-learning-databases/iris/ and download iris.data
+boston housing dataset 2 : https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
