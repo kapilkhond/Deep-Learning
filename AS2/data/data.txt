@@ -1,0 +1,5 @@
+Part 2
+dataset 1 : https://archive.ics.uci.edu/ml/machine-learning-databases/iris/ and download iris.data
+dataset 2 :http://archive.ics.uci.edu/ml/machine-learning-databases/00236/ and download seeds_dataset.txt (we chose class 1,2 and 3 and performed training on selected data, such file is provided with a name "wheat.csv" inside "data" folder)
+
+ 
