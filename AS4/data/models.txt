@@ -1,0 +1,2 @@
+Task 1 (cat and dog classification) model folder -  https://drive.google.com/drive/folders/1VNj3zvsssZi8Tp6cqSXS7XXOffLh4tik?usp=sharing
+Task 2 (cifar-10 classification) model - https://drive.google.com/drive/folders/1X5Arm4bJXTopvfZtXGYRghlOelbck4qx?usp=sharing
