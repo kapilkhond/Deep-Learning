@@ -1,3 +1,0 @@
-Task 1 : use keras built in library - from keras.datasets import cifar10
-Task 2 : url- https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
-Task 3 : url- https://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.data
